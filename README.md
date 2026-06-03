@@ -92,4 +92,4 @@ Mern auth/
 - Update CORS and environment variables as needed for production.
 
 ## License
-MIT
+Pratyush
